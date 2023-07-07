@@ -1,0 +1,33 @@
+{
+  "name": "lab-compression",
+  "version": "1.0.0",
+  "description": "tests of how to use the compression npm lib",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erkobridee/lab-compression.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "lib",
+    "npm",
+    "compression",
+    "glob"
+  ],
+  "author": "Erko Bridee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erkobridee/lab-compression/issues"
+  },
+  "homepage": "https://github.com/erkobridee/lab-compression#readme",
+  "dependencies": {
+    "compressing": "^1.9.0",
+    "glob": "^10.3.1"
+  }
+}
